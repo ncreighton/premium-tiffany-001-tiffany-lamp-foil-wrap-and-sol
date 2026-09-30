@@ -1,0 +1,2 @@
+# premium-tiffany-001-tiffany-lamp-foil-wrap-and-sol
+Tired of losing track of which glass pieces are foiled and which are soldered in your Tiffany lamp project? This Notion template gives you a single source of truth for every piece, from foil width to solder seam.  The Tiffany Lamp Foil Wrap and Solder Log eliminates guesswork and rework by letting you log each piece's foil size, solder type, and co
